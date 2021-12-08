@@ -1,0 +1,69 @@
+{
+  "name": "@fruitsjs/util",
+  "version": "1.0.8",
+  "description": "Useful utilities and tools for building Fruits Eco-Blockchain applications",
+  "keywords": [
+    "fruits",
+    "fruits-eco-blockchain",
+    "blockchain",
+    "smartcontracts",
+    "utils",
+    "fruitsjs"
+  ],
+  "contributors": [
+    "fruits-eco-blockchain"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fruits-eco-blockchain/fruits-wallet.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "Apache-2.0",
+  "main": "./out/index.js",
+  "typings": "./out/index.d.ts",
+  "private": false,
+  "jest": {
+    "transform": {
+      "^.+\\.tsx?$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
+    },
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json"
+    ]
+  },
+  "devDependencies": {
+    "@types/bignumber.js": "^5.0.0",
+    "@types/jest": "^24.0.23",
+    "bili": "^4.8.1",
+    "rollup-plugin-typescript2": "^0.24.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "tsc": "tsc",
+    "bundle": "bili",
+    "readme": "jsdoc2md  --files ./src/*.ts --template ./README.md.hbs --configure ../../jsdoc2md.json > ./README.md"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm test"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "js-base64": "^3.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/fruits-eco-blockchain/fruits-wallet/issues"
+  },
+  "homepage": "https://github.com/fruits-eco-blockchain/fruits-wallet#readme",
+  "author": "fruits-eco-blockchain"
+}

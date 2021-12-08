@@ -1,0 +1,1 @@
+{"version":3,"file":"getRewardRecipient.js","sourceRoot":"","sources":["../../../../src/api/factories/account/getRewardRecipient.ts"],"names":[],"mappings":";;;;;;;;;;;AAYa,QAAA,kBAAkB,GAAG,CAAC,OAAqB,EACJ,EAAE,CAClD,CAAO,SAAiB,EAA4B,EAAE;IAClD,MAAM,UAAU,GAAG;QACf,OAAO,EAAE,SAAS;KACrB,CAAC;IAEF,OAAO,MAAM,OAAO,CAAC,KAAK,CAAkB,oBAAoB,EAAE,UAAU,CAAC,CAAC;AAElF,CAAC,CAAA,CAAC"}

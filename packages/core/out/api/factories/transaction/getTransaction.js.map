@@ -1,0 +1,1 @@
+{"version":3,"file":"getTransaction.js","sourceRoot":"","sources":["../../../../src/api/factories/transaction/getTransaction.ts"],"names":[],"mappings":";;AAaa,QAAA,cAAc,GAAG,CAAC,OAAqB,EACA,EAAE,CAClD,CAAC,aAAqB,EAAwB,EAAE,CAC5C,OAAO,CAAC,KAAK,CAAC,gBAAgB,EAAE,EAAC,WAAW,EAAE,aAAa,EAAC,CAAC,CAAC"}

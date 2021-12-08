@@ -1,0 +1,1 @@
+{"version":3,"file":"httpClientFactory.js","sourceRoot":"","sources":["../src/httpClientFactory.ts"],"names":[],"mappings":";;AACA,yDAAoD;AAOpD,MAAa,iBAAiB;IAU1B,MAAM,CAAC,gBAAgB,CAAC,OAAe,EAAE,OAAa;QAClD,OAAO,IAAI,mCAAgB,CAAC,OAAO,EAAE,OAAO,CAAC,CAAC;IAClD,CAAC;CACJ;AAbD,8CAaC"}

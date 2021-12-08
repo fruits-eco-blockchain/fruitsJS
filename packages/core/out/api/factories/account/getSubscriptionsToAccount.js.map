@@ -1,0 +1,1 @@
+{"version":3,"file":"getSubscriptionsToAccount.js","sourceRoot":"","sources":["../../../../src/api/factories/account/getSubscriptionsToAccount.ts"],"names":[],"mappings":";;AAca,QAAA,yBAAyB,GAAG,CAAC,OAAqB,EACV,EAAE,CACnD,CAAC,SAAiB,EAA6B,EAAE;IAE7C,MAAM,UAAU,GAAG;QACf,OAAO,EAAE,SAAS;KACrB,CAAC;IAEF,OAAO,OAAO,CAAC,KAAK,CAAC,2BAA2B,EAAE,UAAU,CAAC,CAAC;AAClE,CAAC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"getBlockById.js","sourceRoot":"","sources":["../../../../src/api/factories/block/getBlockById.ts"],"names":[],"mappings":";;AAca,QAAA,YAAY,GAAG,CAAC,OAAqB,EACkB,EAAE,CAClE,CAAC,KAAa,EAAE,mBAA4B,EAAkB,EAAE,CAC5D,OAAO,CAAC,KAAK,CAAC,UAAU,EAAE;IACtB,KAAK;IACL,mBAAmB;CACtB,CAAC,CAAC"}

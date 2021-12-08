@@ -1,0 +1,1 @@
+{"version":3,"file":"isMultiOutSameTransaction.js","sourceRoot":"","sources":["../../src/transaction/isMultiOutSameTransaction.ts"],"names":[],"mappings":";;AACA,4CAAwE;AAQ3D,QAAA,yBAAyB,GAAG,CAAC,WAAwB,EAAW,EAAE,CAC3E,WAAW,CAAC,IAAI,KAAK,2BAAe,CAAC,OAAO,IAAI,WAAW,CAAC,OAAO,KAAK,qCAAyB,CAAC,kBAAkB,CAAC"}
